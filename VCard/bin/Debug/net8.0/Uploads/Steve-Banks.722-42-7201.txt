@@ -1,0 +1,10 @@
+BEGIN:VCARD
+                    VERSION:4.0
+                    N:Steve;Banks;;;
+                    FN:Steve Banks
+                    TEL;TYPE=work,voice;VALUE=uri:tel:(491) 921-3687
+                    TEL;TYPE=home,voice;VALUE=uri:tel:(491) 921-3687
+                    ADR;TYPE=WORK:;;United States;;Oceanside
+                    EMAIL:steve.banks@example.com
+                    REV:20080424T195243Z
+                    END:VCARD

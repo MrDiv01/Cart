@@ -1,0 +1,10 @@
+BEGIN:VCARD
+                    VERSION:4.0
+                    N:Harold;Ferguson;;;
+                    FN:Harold Ferguson
+                    TEL;TYPE=work,voice;VALUE=uri:tel:(279) 800-3347
+                    TEL;TYPE=home,voice;VALUE=uri:tel:(279) 800-3347
+                    ADR;TYPE=WORK:;;United States;;Fort Collins
+                    EMAIL:harold.ferguson@example.com
+                    REV:20080424T195243Z
+                    END:VCARD

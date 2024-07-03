@@ -1,0 +1,10 @@
+BEGIN:VCARD
+                    VERSION:4.0
+                    N:Morgane;Vincent;;;
+                    FN:Morgane Vincent
+                    TEL;TYPE=work,voice;VALUE=uri:tel:04-48-87-08-05
+                    TEL;TYPE=home,voice;VALUE=uri:tel:04-48-87-08-05
+                    ADR;TYPE=WORK:;;France;;Strasbourg
+                    EMAIL:morgane.vincent@example.com
+                    REV:20080424T195243Z
+                    END:VCARD

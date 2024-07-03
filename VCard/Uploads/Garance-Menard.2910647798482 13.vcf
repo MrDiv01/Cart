@@ -1,0 +1,10 @@
+BEGIN:VCARD
+                    VERSION:4.0
+                    N:Garance;Menard;;;
+                    FN:Garance Menard
+                    TEL;TYPE=work,voice;VALUE=uri:tel:05-71-84-79-20
+                    TEL;TYPE=home,voice;VALUE=uri:tel:05-71-84-79-20
+                    ADR;TYPE=WORK:;;France;;Poitiers
+                    EMAIL:garance.menard@example.com
+                    REV:20080424T195243Z
+                    END:VCARD

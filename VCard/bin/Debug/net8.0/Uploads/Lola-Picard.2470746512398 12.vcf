@@ -1,0 +1,10 @@
+BEGIN:VCARD
+                    VERSION:4.0
+                    N:Lola;Picard;;;
+                    FN:Lola Picard
+                    TEL;TYPE=work,voice;VALUE=uri:tel:02-93-94-54-15
+                    TEL;TYPE=home,voice;VALUE=uri:tel:02-93-94-54-15
+                    ADR;TYPE=WORK:;;France;;Versailles
+                    EMAIL:lola.picard@example.com
+                    REV:20080424T195243Z
+                    END:VCARD
